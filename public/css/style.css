@@ -1,0 +1,14 @@
+body {
+  background-color: aquamarine;
+}
+
+.meuform {
+  font-style: italic;
+  background-color: rgba(186, 95, 216, 0.663);
+}
+
+.botao{
+  font-style: italic;
+  border-radius: 40px;
+  background-color: #D8BFD8;
+}
